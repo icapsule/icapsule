@@ -1,7 +1,7 @@
 ### Hi there 👋  
 This is about me
-- 🌱 I’m currently learning AWS 
-- 🔭 I’m currently working on different personal project
+- 🌱 I’m currently learning different Things!
+- 🔭 I’m currently working on different personal project!
 
 
 
