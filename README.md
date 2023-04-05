@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋  
+This is about me
+- 🌱 I’m currently learning AWS 
+- 🔭 I’m currently working on different personal project
+
+
+
 
 <!--
 **icapsule/icapsule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
