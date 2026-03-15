@@ -23,7 +23,7 @@ As a **Forward Deployed Engineer** and **Technical Leader**, I bridge the gap be
 
 ### 🤖 AI & Modern Development
 * **AI Integration:** LLM Orchestration, Prompt Engineering, MLOps.
-* **The "Vibe Coding" Workflow:** Expert in using Cursor, Windsurf, and LLMs to build full-stack applications at 10x speed.
+* **The "Vibe Coding" Workflow:** Expert in using Antigravity, Cursor, and LLMs to build full-stack applications at 10x speed.
 
 ### 💻 Full-Stack Engineering (Junior & Growing)
 * **Frontend:** React, Next.js, Tailwind CSS.
