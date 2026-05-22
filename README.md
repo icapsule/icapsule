@@ -25,7 +25,7 @@ As a **Forward Deployed Engineer** and **Technical Leader**, I bridge the gap be
 * **AI Integration:** LLM Orchestration, Prompt Engineering, MLOps.
 * **The "Vibe Coding" Workflow:** Expert in using Antigravity, Cursor, and LLMs to build full-stack applications at 10x speed.
 
-### 💻 Full-Stack Engineering (Junior & Growing)
+### 💻 Full-Stack Engineering 
 * **Frontend:** React, Next.js, Tailwind CSS.
 * **Backend:** Python (FastAPI/Flask), Node.js, SQL & NoSQL Databases.
 
