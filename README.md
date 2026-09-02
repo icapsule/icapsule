@@ -1,4 +1,4 @@
-# 👨‍💻 Hi, I'm Michael | Strategic Technical Leader & Solution Architect & FDE
+# 👨‍💻 Hi, I'm Michael | Strategic Technical Leader | Solution Architect | FDE
 
 <p align="left">
   <img src="https://img.shields.io/badge/Role-Technical%20Leader-0A66C2?style=for-the-badge&logo=linkedin" />
