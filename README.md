@@ -1,8 +1,11 @@
-# 👨‍💻 Hi, I'm Michael
+# 👨‍💻 Hi, I'm Michael | Strategic Technical Leader & Enterprise Systems Architect
+**Forward Deployed Engineer (FDE) · Cloud Platform Engineer · Quality & Reliability (QA Lead)**  
+📍 *Stockholm, Sweden*
 
-### Strategic Technical Leader & Enterprise Systems Architect
-**Forward Deployed Engineer (FDE) · Cloud Platform Engineering**  
-📍 *Stockholm, Sweden* · *18+ Years Carrier-Grade Experience (99.999% SLA)*
+> 🎯 **Bridging Executive Vision, System Architecture & Production Code**  
+> ☁️ **Architecting Resilient Platforms & Intelligent Autonomous Systems at Scale**  
+> ⚡ **Designing with Strategy · Building with Code · Delivering with Precision**  
+> 🛡️ **Engineering High-Availability Distributed Platforms & Production Runtimes**  
 
 <p align="left">
   <img src="https://img.shields.io/badge/CLOUD%20INFRASTRUCTURE-Azure%20%C2%B7%20AWS%20%C2%B7%20GCP%20%C2%B7%20VMware-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Infrastructure" />
