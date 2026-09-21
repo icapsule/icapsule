@@ -1,73 +1,88 @@
-# 👨‍💻 Hi, I'm Michael | Strategic Technical Leader | Solution Architect | FDE
+# 👨‍💻 Hi, I'm Michael
+
+### Strategic Technical Leader & Enterprise Systems Architect
+**Forward Deployed Engineer (FDE) · Cloud Platform Engineering**  
+📍 *Stockholm, Sweden* · *18+ Years Carrier-Grade Experience (99.999% SLA)*
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Role-Technical%20Leader-0A66C2?style=for-the-badge&logo=linkedin" />
-  <img src="https://img.shields.io/badge/Expertise-Cloud%20Architecture-FF9900?style=for-the-badge&logo=amazonaws" />
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI%20%26%20Vibe%20Coding-10A37F?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/CLOUD%20INFRASTRUCTURE-Azure%20%C2%B7%20AWS%20%C2%B7%20GCP%20%C2%B7%20VMware-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Cloud Infrastructure" />
+  <img src="https://img.shields.io/badge/PLATFORM%20ENGINEERING-Kubernetes%20%C2%B7%20DevOps%20%C2%B7%20MLOps%20%C2%B7%20IaC-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Platform Engineering" />
+  <img src="https://img.shields.io/badge/SYSTEMS%20INTEGRATION-Data%20Pipelines%20%C2%B7%20APIs%20%C2%B7%20CI%2FCD%20%C2%B7%20FDE-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Systems Integration" />
+  <img src="https://img.shields.io/badge/AI-Autonomous%20Agents%20%C2%B7%20RAG%20%C2%B7%20XAI%20Systems-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="AI & Autonomous Systems" />
 </p>
 
 ---
 
 ## 🎯 Executive Summary
 
-As a **Forward Deployed Engineer** and **Technical Leader**, I bridge the gap between complex business strategy and high-performance engineering. I specialize in building scalable **Cloud Solutions** and am a pioneer in **Harness Engineering & Vibe Coding**—leveraging Generative AI and autonomous multi-agent systems to accelerate the software development lifecycle from concept to production at 10x velocity.
+As a **Strategic Technical Leader**, **Enterprise Systems Architect**, and **Forward Deployed Engineer (FDE)**, I combine 18+ years of carrier-grade infrastructure resilience (delivering 99.999% SLA across Tier-1 telecommunications leaders including Telia, Nokia, Ericsson, and Telenor Connexion) with modern platform engineering and autonomous AI agent architectures.
 
-> *"I don't just write code; I architect ecosystems, govern AI agents, and solve real-world business challenges."*
+I take end-to-end ownership of the engineering lifecycle from discovery down to production-scale operations:
+* **Discovery & Requirements Engineering:** Translating ambiguous stakeholder needs and complex operational bottlenecks into crisp, high-velocity technical specifications and system topologies.
+* **Architectural & Systems Design:** Engineering resilient, decoupled systems across Hybrid Multi-Cloud (Azure, AWS, GCP), Private Cloud (VMware / NSX-T), and distributed edge runtimes.
+* **Hands-on Building with Code:** Writing clean, deterministic code across distributed backend services, automated data pipelines, modern APIs, and autonomous multi-agent execution harnesses.
+* **Deployment & Day-2 Operations:** Hardening CI/CD pipelines, GitOps, IaC automation, and observability to uphold uncompromising 99.999% availability standards.
 
----
-
-## 🤖 Harness Engineering & Agentic AI
-
-I treat AI not just as an assistant, but as an autonomous engineering team. My core expertise lies in orchestrating these agents securely and efficiently:
-
-* **Harness Engineering:** Architecting strict constraints, context boundaries, and constitution rules (e.g., *AgentCore*) to securely govern autonomous AI behaviors and prevent regressions.
-* **Google Antigravity (AGY) SDK:** Designing, configuring, and orchestrating multi-agent systems. Developing custom Agent Skills and Plugins to automate complex engineering pipelines.
-* **ClaudeCode & CLI Workflows:** Advanced utilization of CLI-based agentic tools for rapid architectural scaffolding, context-aware deep refactoring, and maintaining documentation alignment.
-* **The "Vibe Coding" Methodology:** Transitioning from traditional manual typing to **Prompt-Driven Engineering**—managing iterative PRDs, automated spec syncing, and driving full-stack generation through high-level intent.
+> *"From initial client discovery to high-scale production code: I bridge executive vision with deterministic, hands-on engineering."*
 
 ---
 
-## 🛠 Tech Stack & Core Specializations
+## 🛠 Core Capabilities & Engineering Matrix
 
-### ☁️ Cloud & Infrastructure
-* **Architecture:** Hybrid Cloud, Multi-Cloud Strategy (AWS, GCP), Private Cloud (VMware / NSX-T).
-* **DevOps & IaC:** Terraform, Kubernetes (K8s), Docker, CI/CD Automation.
+### ☁️ Cloud, Platform & Infrastructure
+* **Cloud Ecosystems:** Azure, AWS, GCP, Hybrid Multi-Cloud Architecture, Private Cloud (VMware vSphere / NSX-T).
+* **Container & Platform Orchestration:** Kubernetes (K8s), Docker, Helm, GitOps workflows, Linux Kernel & System Internals.
+* **Infrastructure as Code & CI/CD:** Terraform, Ansible, GitHub Actions, GitLab CI, Automated Compliance & Security Guardrails.
+* **High Availability & Reliability:** 99.999% Carrier-Grade SLA Design, Incident Command, Chaos Engineering, Disaster Recovery.
 
-### 💻 Full-Stack Engineering 
-* **Frontend:** React, Next.js, TypeScript, Tailwind CSS, Modern UI/UX (Glassmorphism, Motion).
-* **Backend:** Node.js, Next.js API Routes, Serverless Architectures.
-* **Database & ORM:** PostgreSQL, Prisma, Zod-to-DB alignment.
+### ⚡ Systems Integration, Data & Edge
+* **Modern Edge & Serverless:** Cloudflare Workers, Cloudflare D1 / D2 / Vectorize, Zero-Touch Deployments, Vercel, Supabase.
+* **Integration & Communication:** RESTful APIs, GraphQL, Event-Driven Architectures, WebSockets, Message Queues.
+* **Core Engineering Languages:** Python, TypeScript / JavaScript, Go, Bash / POSIX Shell scripting.
+* **Data Pipelines & Persistence:** PostgreSQL, Supabase, Redis, Automated Data Ingestion, ETL/ELT Pipelines.
+
+### 🤖 Applied AI & Autonomous Agent Systems
+* **Agent Harness Architectures:** Finite State Machine (FSM) harnesses, AgentCore runtime, Google Antigravity (AGY) SDK.
+* **LLM Engineering & Retrieval:** Domain-specific Retrieval-Augmented Generation (RAG), Vector Embeddings, Tool Calling & Model Context Protocol (MCP).
+* **Explainable AI & Decision Systems:** LightGBM, SHAP-based feature attribution, real-time telemetry-driven decision pipelines.
 
 ---
 
-## 💡 How I Build (The Vibe)
+## 🧰 Modern Tooling & AI-Assisted Craftsmanship
 
-1. **Strategic Planning:** Establishing precise architecture docs (`PROJECT_SPEC.md`, `PRD.md`) before writing a single line of code.
-2. **AI Orchestration:** Deploying specialized agents (e.g., `ui-html-expert`, `database-steward`) to execute specific domains.
-3. **Vibe Orchestration:** Acting as the "Senior Architect," reviewing AI PRs, resolving structural conflicts, and ensuring extreme aesthetic and technical quality.
+I leverage best-in-class modern platforms and intelligent developer tooling to design and deliver high-velocity, high-resilience systems:
+
+* **Edge & Cloud Native Runtimes:** Cloudflare (Zero-Touch Architecture, Workers, D1/D2, Pages), Vercel, Supabase, AWS Lambda / ECS.
+* **AI-Assisted Engineering Harnesses:** Claude Code, Google Antigravity (AGY), Codex, Hermes Agent, Cursor.
 
 ---
 
 ## 📈 What I'm Currently Working On
-* 🚀 Optimizing enterprise-grade **Hybrid Cloud** deployments for high availability.
-* 🧠 Building internal tools using **Agentic Workflows** to automate product ownership tasks.
-* 🎾 Perfecting my topspin on the court and my swing on the green.
+
+* ⚡ **Full-stack web applications** with automated edge data pipelines & Cloudflare Zero-Touch architecture.
+* 🤖 **Autonomous Multi-Agent FSM harnesses** with deterministic gate checks, context hygiene, and self-healing verification loops.
+* 📊 **High-throughput enterprise telemetry pipelines** integrating real-time event streaming and distributed tracing.
+* 🛡️ **Edge-native micro-runtimes & distributed storage topologies** across multi-cloud footprints.
+* ... etc.
 
 ---
 
-## 🎾 Beyond the Screen (Hobbies)
-When I'm not architecting the future of cloud, you can find me:
-* **Tennis Player:** Competitive mindset, constantly working on footwork and strategy.
-* **Golf Enthusiast:** Driven by precision, focus, and the continuous pursuit of the perfect swing.
-* **Product Owner Mindset:** Applying "Lean" principles to every aspect of life.
+## 🎾 Beyond the Terminal
+
+* 🎾 **Tennis Player:** Focused on court positioning, tactical discipline, anticipation, and clean ball striking.
+* ⛳ **Golf Enthusiast:** Driven by precision, muscle-memory repeatability, and continuous refinement under pressure.
+* 🔨 **Continuous Builder:** Constantly prototyping, stress-testing emerging frameworks, and exploring distributed computing paradigms.
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+## 📫 Get in Touch
+
+* 📍 **Location:** Stockholm, Sweden
+* ✉️ **Email:** [homehuangwong@gmail.com](mailto:homehuangwong@gmail.com)
+* 💼 Open to Strategic Technical Leadership, Enterprise Systems Architecture, Forward Deployed Engineering (FDE), and Cloud Platform initiatives.
 
 ---
+
 <p align="center">
-  <i>"Simplicity is the ultimate sophistication." — Leonardo da Vinci</i>
+  <i>"Simplicity is prerequisite for reliability." — Edsger W. Dijkstra</i>
 </p>
