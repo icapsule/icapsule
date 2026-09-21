@@ -32,6 +32,7 @@
 <p>
   <b>⚡ Systems Integration, Data & Edge:</b><br/>
   <img src="https://img.shields.io/badge/Cloudflare_Zero--Touch-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Kong_Gateway-11C2B4?style=flat-square&logo=kong&logoColor=white" alt="Kong Gateway" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logoColor=black" alt="Neon Postgres" />
@@ -44,22 +45,29 @@
 
 <p>
   <b>🤖 Agentic AI:</b><br/>
-  <img src="https://img.shields.io/badge/AgentCore-FSM_Harness-7C3AED?style=flat-square" alt="AgentCore" />
-  <img src="https://img.shields.io/badge/Google-Antigravity_SDK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
-  <img src="https://img.shields.io/badge/Claude_Code-Agentic_CLI-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/Codex-AI_Coding-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
-  <img src="https://img.shields.io/badge/AI_Gateway-LiteLLM-4F46E5?style=flat-square" alt="AI Gateway" />
-  <img src="https://img.shields.io/badge/Hugging_Face-Spaces_%26_Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/RAG_%26_MCP-Context_Protocol-0284C7?style=flat-square" alt="RAG & MCP" />
+  <img src="https://img.shields.io/badge/Harness_Engineering-7C3AED?style=flat-square" alt="Harness Engineering" />
+  <img src="https://img.shields.io/badge/Loop_Engineering-6366F1?style=flat-square" alt="Loop Engineering" />
+  <img src="https://img.shields.io/badge/Graph_Engineering-EC4899?style=flat-square" alt="Graph Engineering" />
+  <img src="https://img.shields.io/badge/Antigravity_SDK-4285F4?style=flat-square" alt="Antigravity SDK" />
+  <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Hermes_Agent-0D9488?style=flat-square" alt="Hermes Agent" />
+  <img src="https://img.shields.io/badge/Roberts_AI-8B5CF6?style=flat-square" alt="Roberts AI" />
+  <img src="https://img.shields.io/badge/AI_Gateway-4F46E5?style=flat-square" alt="AI Gateway" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/RAG-0284C7?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-F97316?style=flat-square" alt="MCP" />
 </p>
 
 <p>
   <b>🛡️ Quality, Reliability & QA Lead:</b><br/>
-  <img src="https://img.shields.io/badge/Carrier--Grade-99.999%25_SLA-059669?style=flat-square" alt="99.999% SLA" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-Observability-4B5563?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/QA_Lead-Automated_Verification-2563EB?style=flat-square" alt="QA Lead" />
-  <img src="https://img.shields.io/badge/Chaos_Eng-Fault_Tolerance-DC2626?style=flat-square" alt="Chaos Engineering" />
-  <img src="https://img.shields.io/badge/Incident_Command-SRE-6B7280?style=flat-square" alt="SRE" />
+  <img src="https://img.shields.io/badge/99.999%25_SLA-Carrier--Grade-059669?style=flat-square" alt="99.999% SLA" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-4B5563?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Test_Automation-2563EB?style=flat-square" alt="Test Automation" />
+  <img src="https://img.shields.io/badge/Quality_Gates-0891B2?style=flat-square" alt="Quality Gates" />
+  <img src="https://img.shields.io/badge/Chaos_Engineering-DC2626?style=flat-square" alt="Chaos Engineering" />
+  <img src="https://img.shields.io/badge/SRE-Reliability-6B7280?style=flat-square" alt="SRE" />
+  <img src="https://img.shields.io/badge/Incident_Command-D97706?style=flat-square" alt="Incident Command" />
 </p>
 
 ---
@@ -87,15 +95,15 @@ I take end-to-end ownership of the engineering lifecycle from discovery down to 
 * **Observability & Reliability:** 99.999% Carrier-Grade SLA Design, Prometheus, Grafana, OpenTelemetry, Incident Command & Chaos Engineering.
 
 ### ⚡ Systems Integration, Data & Edge
-* **Modern Edge & Serverless:** Cloudflare Workers, Cloudflare D1 / D2 / Vectorize, Zero-Touch Deployments, Vercel, Supabase.
+* **Modern Edge & Gateways:** Cloudflare Workers, Kong API Gateway, Cloudflare D1 / D2, Zero-Touch Deployments, Vercel, Supabase.
 * **Integration & Communication:** RESTful APIs, GraphQL, Event-Driven Architectures, WebSockets, Message Queues.
 * **Core Engineering Languages:** Python, TypeScript / JavaScript, Go, Bash / POSIX Shell scripting.
 * **Databases & Data Pipelines:** PostgreSQL, Neon Serverless Postgres, Oracle Database, Supabase, Redis, Automated ETL/ELT Ingestion.
 
 ### 🤖 Agentic AI & Autonomous Systems
-* **Agent Harness Architectures:** Finite State Machine (FSM) harnesses, AgentCore runtime, Google Antigravity (AGY) SDK, LiteLLM / AI Gateway.
-* **LLM Engineering & Retrieval:** Domain-specific Retrieval-Augmented Generation (RAG), Vector Embeddings, Tool Calling & Model Context Protocol (MCP).
-* **AI Tooling & Models:** OpenAI Codex, Claude Code, Hugging Face Spaces & Transformers, LightGBM & SHAP-based Explainable AI (XAI).
+* **Agentic Methodologies & Harnesses:** Harness Engineering, Loop Engineering, Graph-based Agent Topologies, Antigravity SDK, AI Gateway.
+* **Context & Protocols:** Retrieval-Augmented Generation (RAG), Model Context Protocol (MCP), Vector Embeddings, Tool Calling.
+* **Models & Agentic Runtimes:** Claude Code, OpenAI Codex, Hermes Agent, Roberts AI, Hugging Face, LightGBM & SHAP-based Explainable AI (XAI).
 
 ---
 
@@ -103,8 +111,8 @@ I take end-to-end ownership of the engineering lifecycle from discovery down to 
 
 I leverage best-in-class modern platforms and intelligent developer tooling to design and deliver high-velocity, high-resilience systems:
 
-* **Edge & Cloud Native Runtimes:** Cloudflare (Zero-Touch Architecture, Workers, D1/D2, Pages), Vercel, Supabase, Neon, AWS Lambda / ECS.
-* **AI-Assisted Engineering Harnesses:** Claude Code, Google Antigravity (AGY), OpenAI Codex, LiteLLM AI Gateway, Hermes Agent, Cursor.
+* **Edge & Cloud Native Runtimes:** Cloudflare (Zero-Touch Architecture, Workers, D1/D2), Kong Gateway, Vercel, Supabase, Neon, AWS Lambda / ECS.
+* **AI-Assisted Engineering Harnesses:** Claude Code, Antigravity SDK, OpenAI Codex, AI Gateway, Hermes Agent, Roberts AI, Cursor.
 
 ---
 
