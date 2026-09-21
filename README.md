@@ -83,9 +83,8 @@ I take end-to-end ownership of the engineering lifecycle from discovery down to 
 
 ## 📫 Get in Touch
 
-* 📍 **Location:** Stockholm, Sweden
-* ✉️ **Email:** [homehuangwong@gmail.com](mailto:homehuangwong@gmail.com)
-* 💼 Open to Strategic Technical Leadership, Enterprise Systems Architecture, Forward Deployed Engineering (FDE), and Cloud Platform initiatives.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cppemu/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cppemu@gmail.com)
 
 ---
 
