@@ -54,12 +54,12 @@ I take end-to-end ownership of the engineering lifecycle from discovery down to 
 
 ---
 
-## 🧰 Modern Tooling & AI-Assisted Craftsmanship
+## ⚡ Engineering Philosophy & Delivery Principles
 
-I leverage best-in-class modern platforms and intelligent developer tooling to design and deliver high-velocity, high-resilience systems:
-
-* **Edge & Cloud Native Runtimes:** Cloudflare (Zero-Touch Architecture, Workers, D1/D2), Kong Gateway, Vercel, Supabase, Neon, AWS Lambda / ECS.
-* **AI-Assisted Engineering Harnesses:** Claude Code, Antigravity SDK, OpenAI Codex, AI Gateway, Hermes Agent, LobsterAI, Cursor.
+* 📐 **Architecture-First & Zero-Bloat:** Treat system topology, component boundaries, and strict data contracts as first-class citizens before writing a single line of code.
+* 🤖 **Deterministic AI-Augmented Velocity:** Leverage agentic loops, FSM harnesses, and automated verification gates for high-velocity implementation, preserving human cognitive bandwidth for high-leverage architectural decisions.
+* 🛡️ **Production-Grade from Day One:** Telemetry, defense-in-depth security, and carrier-grade 99.999% resilience are structural primitives baked into initial discovery, never afterthoughts.
+* 🎯 **Forward-Deployed Accountability:** Bridge executive strategy directly with operational code — owning the full lifecycle from business discovery down to production runtime reliability.
 
 ---
 
