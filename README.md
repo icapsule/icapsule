@@ -7,74 +7,60 @@
 > ⚡ **Designing with Strategy · Building with Code · Delivering with Precision**  
 > 🛡️ **Engineering High-Availability Distributed Platforms & Production Runtimes**  
 
-### 📐 Option 1: Executive Matrix Table (Clean Markdown)
-
-| Capability Domain | Production Stack & Tools | Architectural Focus |
-| :--- | :--- | :--- |
-| ☁️ **Cloud Infrastructure** | `Azure` `AWS` `GCP` `VMware vSphere/NSX-T` | Multi-Cloud Landing Zones, Hybrid Cloud, DC Networking |
-| ⚙️ **Platform Engineering** | `Kubernetes` `Docker` `Terraform` `GitOps` `CI/CD` | Infrastructure as Code, MLOps, Container Orchestration |
-| ⚡ **Systems & Edge Runtimes** | `Cloudflare (Zero-Touch)` `Workers` `Vercel` `Supabase` | Edge Data Pipelines, Distributed APIs, FDE Delivery |
-| 🤖 **Autonomous AI & Agents** | `AgentCore (FSM)` `Antigravity (AGY)` `Claude Code` `RAG` | Deterministic Multi-Agent Systems, Context Hygiene, MCP |
-| 🛡️ **Quality & Reliability (QA)**| `99.999% SLA` `OpenTelemetry` `Prometheus` `Chaos Eng` | Carrier-Grade QA Leadership, Automated Verification Gates |
-
----
-
-### 🏷️ Option 2: Structured Categorized Badge Rows
-
 <p>
-  <b>☁️ Cloud Infrastructure:</b><br/>
+  <b>☁️ Cloud Infrastructure & Enterprise Systems:</b><br/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="GCP" />
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" alt="VMware" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
   <img src="https://img.shields.io/badge/Hybrid_Cloud-00599C?style=flat-square" alt="Hybrid Cloud" />
 </p>
 
 <p>
-  <b>⚙️ Platform Engineering & DevOps:</b><br/>
+  <b>⚙️ Platform Engineering & DevSecOps:</b><br/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/MLOps-FF6F00?style=flat-square" alt="MLOps" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions_%26_GitLab-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/DevSecOps-Security_Gates-16A34A?style=flat-square" alt="DevSecOps" />
+  <img src="https://img.shields.io/badge/GitOps-ArgoCD-EF6C00?style=flat-square&logo=argo&logoColor=white" alt="GitOps" />
 </p>
 
 <p>
-  <b>⚡ Systems Integration & Edge:</b><br/>
+  <b>⚡ Systems Integration, Data & Edge:</b><br/>
   <img src="https://img.shields.io/badge/Cloudflare_Zero--Touch-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logoColor=black" alt="Neon Postgres" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle DB" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/REST_%26_GraphQL-E535AB?style=flat-square" alt="APIs" />
   <img src="https://img.shields.io/badge/FDE_Delivery-0A66C2?style=flat-square" alt="FDE" />
 </p>
 
 <p>
-  <b>🤖 Autonomous AI & Multi-Agent:</b><br/>
+  <b>🤖 Agentic AI:</b><br/>
   <img src="https://img.shields.io/badge/AgentCore-FSM_Harness-7C3AED?style=flat-square" alt="AgentCore" />
   <img src="https://img.shields.io/badge/Google-Antigravity_SDK-4285F4?style=flat-square&logo=google&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Claude_Code-Agentic_CLI-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-  <img src="https://img.shields.io/badge/RAG_%26_MCP-10A37F?style=flat-square" alt="RAG & MCP" />
+  <img src="https://img.shields.io/badge/Codex-AI_Coding-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/AI_Gateway-LiteLLM-4F46E5?style=flat-square" alt="AI Gateway" />
+  <img src="https://img.shields.io/badge/Hugging_Face-Spaces_%26_Models-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/RAG_%26_MCP-Context_Protocol-0284C7?style=flat-square" alt="RAG & MCP" />
 </p>
 
 <p>
   <b>🛡️ Quality, Reliability & QA Lead:</b><br/>
   <img src="https://img.shields.io/badge/Carrier--Grade-99.999%25_SLA-059669?style=flat-square" alt="99.999% SLA" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-4B5563?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
-  <img src="https://img.shields.io/badge/Automated_Testing-QA_Lead-blue?style=flat-square" alt="QA Lead" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-Observability-4B5563?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/QA_Lead-Automated_Verification-2563EB?style=flat-square" alt="QA Lead" />
+  <img src="https://img.shields.io/badge/Chaos_Eng-Fault_Tolerance-DC2626?style=flat-square" alt="Chaos Engineering" />
+  <img src="https://img.shields.io/badge/Incident_Command-SRE-6B7280?style=flat-square" alt="SRE" />
 </p>
-
----
-
-### 👑 Option 3: Hybrid Matrix (Table with Embedded Badges)
-
-| Capability Domain | Core Technologies & Stacks | Architectural Focus |
-| :--- | :--- | :--- |
-| ☁️ **Cloud Infrastructure** | <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white" /> | Multi-Cloud Landing Zones, Hybrid Cloud, Enterprise Topology |
-| ⚙️ **Platform Engineering** | <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/GitOps-F05032?style=flat-square&logo=git&logoColor=white" /> | Automated IaC, Container Orchestration, MLOps, CI/CD |
-| ⚡ **Systems & Edge Runtimes** | <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> | Zero-Touch Pipelines, Edge Runtimes, D1/Vectorize, FDE Delivery |
-| 🤖 **Autonomous AI & Agents** | <img src="https://img.shields.io/badge/AgentCore-FSM_Harness-7C3AED?style=flat-square" /> <img src="https://img.shields.io/badge/Google-Antigravity-4285F4?style=flat-square&logo=google&logoColor=white" /> <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" /> | Deterministic FSM Workflows, RAG, Tool Calling & MCP |
-| 🛡️ **Quality & Reliability (QA)**| <img src="https://img.shields.io/badge/SLA-99.999%25-059669?style=flat-square" /> <img src="https://img.shields.io/badge/OpenTelemetry-4B5563?style=flat-square&logo=opentelemetry&logoColor=white" /> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" /> | Carrier-Grade QA Leadership, Automated Verification Gates |
 
 ---
 
@@ -94,22 +80,22 @@ I take end-to-end ownership of the engineering lifecycle from discovery down to 
 
 ## 🛠 Core Capabilities & Engineering Matrix
 
-### ☁️ Cloud, Platform & Infrastructure
-* **Cloud Ecosystems:** Azure, AWS, GCP, Hybrid Multi-Cloud Architecture, Private Cloud (VMware vSphere / NSX-T).
-* **Container & Platform Orchestration:** Kubernetes (K8s), Docker, Helm, GitOps workflows, Linux Kernel & System Internals.
-* **Infrastructure as Code & CI/CD:** Terraform, Ansible, GitHub Actions, GitLab CI, Automated Compliance & Security Guardrails.
-* **High Availability & Reliability:** 99.999% Carrier-Grade SLA Design, Incident Command, Chaos Engineering, Disaster Recovery.
+### ☁️ Cloud, Platform & DevSecOps
+* **Cloud & Enterprise Ecosystems:** Azure, AWS, GCP, Hybrid Multi-Cloud Architecture, VMware vSphere / NSX-T, Oracle Cloud (OCI).
+* **Container & Platform Orchestration:** Kubernetes (K8s), Docker, Helm, ArgoCD / GitOps, Linux Kernel & System Internals.
+* **Infrastructure as Code & CI/CD:** Terraform, Ansible, GitHub Actions, GitLab CI, DevSecOps Automated Security Gates.
+* **Observability & Reliability:** 99.999% Carrier-Grade SLA Design, Prometheus, Grafana, OpenTelemetry, Incident Command & Chaos Engineering.
 
 ### ⚡ Systems Integration, Data & Edge
 * **Modern Edge & Serverless:** Cloudflare Workers, Cloudflare D1 / D2 / Vectorize, Zero-Touch Deployments, Vercel, Supabase.
 * **Integration & Communication:** RESTful APIs, GraphQL, Event-Driven Architectures, WebSockets, Message Queues.
 * **Core Engineering Languages:** Python, TypeScript / JavaScript, Go, Bash / POSIX Shell scripting.
-* **Data Pipelines & Persistence:** PostgreSQL, Supabase, Redis, Automated Data Ingestion, ETL/ELT Pipelines.
+* **Databases & Data Pipelines:** PostgreSQL, Neon Serverless Postgres, Oracle Database, Supabase, Redis, Automated ETL/ELT Ingestion.
 
-### 🤖 Applied AI & Autonomous Agent Systems
-* **Agent Harness Architectures:** Finite State Machine (FSM) harnesses, AgentCore runtime, Google Antigravity (AGY) SDK.
+### 🤖 Agentic AI & Autonomous Systems
+* **Agent Harness Architectures:** Finite State Machine (FSM) harnesses, AgentCore runtime, Google Antigravity (AGY) SDK, LiteLLM / AI Gateway.
 * **LLM Engineering & Retrieval:** Domain-specific Retrieval-Augmented Generation (RAG), Vector Embeddings, Tool Calling & Model Context Protocol (MCP).
-* **Explainable AI & Decision Systems:** LightGBM, SHAP-based feature attribution, real-time telemetry-driven decision pipelines.
+* **AI Tooling & Models:** OpenAI Codex, Claude Code, Hugging Face Spaces & Transformers, LightGBM & SHAP-based Explainable AI (XAI).
 
 ---
 
@@ -117,8 +103,8 @@ I take end-to-end ownership of the engineering lifecycle from discovery down to 
 
 I leverage best-in-class modern platforms and intelligent developer tooling to design and deliver high-velocity, high-resilience systems:
 
-* **Edge & Cloud Native Runtimes:** Cloudflare (Zero-Touch Architecture, Workers, D1/D2, Pages), Vercel, Supabase, AWS Lambda / ECS.
-* **AI-Assisted Engineering Harnesses:** Claude Code, Google Antigravity (AGY), Codex, Hermes Agent, Cursor.
+* **Edge & Cloud Native Runtimes:** Cloudflare (Zero-Touch Architecture, Workers, D1/D2, Pages), Vercel, Supabase, Neon, AWS Lambda / ECS.
+* **AI-Assisted Engineering Harnesses:** Claude Code, Google Antigravity (AGY), OpenAI Codex, LiteLLM AI Gateway, Hermes Agent, Cursor.
 
 ---
 
