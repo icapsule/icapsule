@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Michael | Strategic Technical Leader & Enterprise Systems Architect
-**Forward Deployed Engineer (FDE) · Cloud Platform Engineer · Quality & Reliability (QA Lead)**  
+**Forward Deployed Engineer (FDE) · Cloud Platform Engineer · Quality & Reliability**  
 📍 *Stockholm, Sweden*
 
 > 🎯 **Bridging Executive Vision, System Architecture & Production Code**  
